@@ -1,2 +1,2 @@
-# Motor-bench-to-test-Kv
+# Motor bench to measure back-EMF (and obtain Kv)
 A simple bench created to test many motors and measure their back-EMF
